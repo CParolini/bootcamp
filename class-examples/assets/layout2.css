@@ -1,0 +1,35 @@
+@media screen and (max-width: 768px) {
+  /*The body's bg color will be #333*/
+  body{
+    background: #333;
+  }
+
+  /*Pararaph font changes to white*/
+
+  p{
+    color: #eee;
+  }
+
+  /*The wrapper's width will be 600px*/
+  .wrapper{
+    width: 600px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  /*The body's bg color will be #333*/
+  body{
+    background: yellow;
+  }
+
+  /*Pararaph font changes to white*/
+
+  p{
+    color: red;
+  }
+
+  /*The wrapper's width will be 600px*/
+  .wrapper{
+    width: 400px;
+  }
+}
