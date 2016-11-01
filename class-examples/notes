@@ -1,0 +1,14 @@
+10/31/2016
+
+Intro to JS
+- JS (Behavioral)
+- CSS (Presentational)
+- HTML (Structural)
+- It's like building a house
+  - CSS - fixtures, carpeting, paint
+  - JS - electrical, plumbing, HVAC
+  - HTML - framing, flooring, drywall
+  - Server - foundation
+
+Basic Variables
+Variables - the nouns of programming, they are "things" (numbers, strings, booleans (true/false), etc.), composed of variable names and values
