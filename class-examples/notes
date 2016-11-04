@@ -12,3 +12,67 @@ Intro to JS
 
 Basic Variables
 Variables - the nouns of programming, they are "things" (numbers, strings, booleans (true/false), etc.), composed of variable names and values
+!- before a variable makes the variable return the opposite
+
+Concatination - adding strings together
+
+Console.log is a quick expression used to print content to the debugger.
+  - it is very useful to troubleshoot
+  - much easier way to see that your form is doing what you are expecting it to do.
+
+Alert- ok prompt
+Confirm- ok or cancel prompt
+Prompt- ask for some sort of information to be entered, will always be returned as a string
+
+Document.Write
+
+If-Then Statements
+- Super critical
+- Each statement is composed of an if, else-if, or else (keyword), a condition, and the resulting code in {}.
+
+== checks for the value, allows for coersion
+=== checks for the type, has to match exactly to return true
+
+Arrays
+- Zebra(0), Rhino(1), Giraffe(2), Owl(3) - (indexes)
+  - var zooAnimals = ["Zebra", "Rhino", "Giraffe", "Owl"]
+
+11-3-2016
+
+What we will do today:
+- Array Assignments
+- Concept of For-Loops
+  - Loops- I want you to do the same thing over again until I say stop. (repetitive tasks)
+- The art of psuedo coding
+  - if you can't explain the coding in words then you won't be able to do the actual coding
+  - the exercise of saying what is my code going to do and write it out in words
+- Building Rock Paper Scissors
+  - last 30 minutes will be building this basic rock paper scissors app
+
+What is JS?
+- Every time you see something on a website that happens without refreshing the page is JS.
+- Allows dev to create dynamic websites.
+- declaring a variable
+  - var
+  - var name (var x) - there are certain words that it cannot be (basically any word that is used in JS to perform soemthing)
+  - =
+  - value
+  - semicolon
+
+What is meant by console.log?
+- alert - var x = alert();
+- prompt - prompt();
+- confirm - confirm ();
+- document.write -
+
+What is an array?
+- collection of variables
+- can be string, numbers, booleans, etc.
+
+For Loops
+- for (var i = 0; i < vegetable.length; i++) { console.log("I love" + vegetable[i])};
+  - iterator - first statement in the loop will only run one time
+  - condition - second statement goes through the array until it's not true starting at 0
+  - implimentation - third statement adds one to the last item of the array
+
+Rock Paper Scissors
