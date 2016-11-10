@@ -76,3 +76,59 @@ For Loops
   - implimentation - third statement adds one to the last item of the array
 
 Rock Paper Scissors
+
+
+11-5-2016
+
+Today we will cover
+- JS Functions
+- JS Objects
+- Building simple JS Applications
+
+Primitives
+- booleans
+- numbers
+- strings
+
+Arrays are a type of object not a primitive even though arrays can hold primitives.
+
+Function
+- something that performs a task. (simplest definition)
+- when changing, updating or fixing things you only have to change it one time. The ability to maintain your code.
+- allow you to standardize task so you don't have to rewrite code over and over again.
+- always label for easy understanding of what it is doing
+- decompose your code it to functions that have relatively small tasks and are easily readable.
+
+Objects
+- allow you to store any kind of data in a much simpler fashion
+- syntax
+  - var obj={};
+  - ways to call object
+    - me["name"]
+    - me.name = x
+- giant place to store data
+
+You want to separate the data of an application out from the build and makeup of it
+
+This
+- Inside a function, the value of this depends on how the function is called.
+- FUNCTION is a property of an object it's now a METHOD
+  - Math.random is a method
+  - This inside of a method refers to the object it is part of
+- if THIS is in a function it refers to the global window object
+- if THIS is in a method it refers to the object calling it
+
+11/08/2016
+
+Today's class:
+- DOM manipulation with JS
+- DOM manipulation with jQuery
+-
+
+jQuery $(Begins)
+- a helper library that is part of JS.
+- a way to have a universal syntax of keeping track of things on the DOM.
+-
+
+Creating a new div from Console.
+- to add newDiv to page you can use targetDiv.appendChild(newDiv)
