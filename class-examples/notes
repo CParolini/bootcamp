@@ -132,3 +132,9 @@ jQuery $(Begins)
 
 Creating a new div from Console.
 - to add newDiv to page you can use targetDiv.appendChild(newDiv)
+
+
+11/10/2016
+
+only the word function creates another scope
+function within a function is nested scope
